@@ -12,6 +12,7 @@ Atrg=(a*b)/2;
 Aquad=a*a;
 Arett=a*b;
 Atrap=((a+b)*c)/2;
+
 cout<<Atrg<<endl;
 cout<<Aquad<<endl;
 cout<< Arett<<endl;
