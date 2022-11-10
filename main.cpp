@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){ 
-  float a=0, b=0, c=0, Atrg=0, Aquad=0, Arett=0, Atrap=0;
+float a=0, b=0, c=0, Atrg=0, Aquad=0, Arett=0, Atrap=0;
   
 //Qui vanno definite le variabili
 
